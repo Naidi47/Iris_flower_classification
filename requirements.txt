@@ -1,0 +1,9 @@
+# Required Python Libraries for Iris Flower Classification Project
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+flask
+joblib
